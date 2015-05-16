@@ -1,9 +1,8 @@
 ###############################################################
-###							                				###	
-###															###	
-###	              GoEuro Test APP	                        ###
-###           -----------------------                       ###
-###															###
+###													
+###	              GoEuro Test APP	                        
+###          ---------------------------                       
+###															
 ###############################################################
 
 1. The System.out.println() statements used in the code-base to track the execution of Application will be replaced 
